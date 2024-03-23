@@ -234,3 +234,4 @@ This is a personal project and is not affiliated with OpenAI in any way.
 
 ## License
 This project is released under the terms of the GPL 2.0 license. For more information, see the [LICENSE](LICENSE) file included in the repository.
+# chatgpt-telegram-bot-rj
