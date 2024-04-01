@@ -9,7 +9,7 @@
         "chat_description":"Chat with the bot!",
         "disallowed":"Sorry, you are not allowed to use this bot. You can check out the source code at https://github.com/n3d1117/chatgpt-telegram-bot",
         "budget_limit":"wanna keep chillin'? subscribe to rjmxrell on twitter & dm him ur telegram id so that he can add u 🤗",
-        "help_text":["Hello"],
+        "help_text":["hey ", "what's up? ", "😊"],
         "stats_conversation":["Current conversation", "chat messages in history", "chat tokens in history"],
         "usage_today":"Usage today",
         "usage_month":"Usage this month",
